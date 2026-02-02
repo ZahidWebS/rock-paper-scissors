@@ -16,7 +16,7 @@ A simple Rock Paper Scissors game built using **HTML, CSS, and JavaScript**.
 
 ## How to Play
 1. Open `rockpaperscissors.html` in your browser.
-2. Choose **Rock**, **Paper**, or **Scissors**.
+2. Choose **Rock**, **Paper**, or Scissors.
 3. The computer will make its choice automatically.
 4. Check the result and score update for each round.
 5. Continue playing as long as you want.
