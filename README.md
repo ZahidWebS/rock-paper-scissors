@@ -21,8 +21,7 @@ A simple Rock Paper Scissors game built using **HTML, CSS, and JavaScript**.
 4. Check the result and score update for each round.
 5. Continue playing as long as you want.
 
-## Live Demo
-[Play the game online](https://ZahidWebS.github.io/rock-paper-scissors/rockpaperscissors.html)
+
 
 ## Author
 Zahid Hussain
